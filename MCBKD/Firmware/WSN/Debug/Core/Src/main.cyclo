@@ -1,0 +1,12 @@
+../Core/Src/main.c:77:6:HAL_ADC_ConvCpltCallback	2
+../Core/Src/main.c:92:5:main	3
+../Core/Src/main.c:160:6:SystemClock_Config	4
+../Core/Src/main.c:206:13:MX_ADC1_Init	3
+../Core/Src/main.c:253:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:286:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:319:13:MX_GPIO_Init	1
+../Core/Src/main.c:386:6:JDY23wakeup	1
+../Core/Src/main.c:390:6:JDY23sleep	1
+../Core/Src/main.c:394:9:isBtPressed	2
+../Core/Src/main.c:399:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:411:6:Error_Handler	1
