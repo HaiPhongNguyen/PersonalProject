@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=IO0 Pin=Q2-3
+Removed Pin From Net: NetName=IO0 Pin=R1-2
+Removed Pin From Net: NetName=EN Pin=R3-2
+Removed Pin From Net: NetName=ESP_SCL Pin=U1-33
+Removed Pin From Net: NetName=ESP_SDA Pin=U1-36
+Removed Member From Class: ClassName=SelfBalancingRB_SCH Member=R1
+Removed Member From Class: ClassName=SelfBalancingRB_SCH Member=R3
+Change Component Comment : Designator=J1 Old Comment=10118194-0001LF New Comment=Micro-USB
+Change Component Comment : Designator=P1 Old Comment=Header 4 New Comment=MPU6050
+Change Component Comment : Designator=P2 Old Comment=Header 6 New Comment=L298_Module
+Change Component Comment : Designator=LED1 Old Comment=HSMH-C170 New Comment=
+Change Component Comment : Designator=LED2 Old Comment=HSMH-C170 New Comment=
+Change Component Comment : Designator=JP1 Old Comment=JP2 New Comment=INPUT
+Added Component: Designator=H?(LO KHOAN 3MM)
+Added Component: Designator=H?(LO KHOAN 3MM)
+Added Component: Designator=H?(LO KHOAN 3MM)
+Added Component: Designator=H?(LO KHOAN 3MM)
+Added Pin To Net: NetName=IO0 Pin=C5-2
+Added Pin To Net: NetName=EN Pin=C6-2
+Added Pin To Net: NetName=IO0 Pin=SW1-2
+Added Pin To Net: NetName=EN Pin=SW2-2
+Added Pin To Net: NetName=ESP_SDA Pin=U1-33
+Added Pin To Net: NetName=ESP_SCL Pin=U1-36
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component C7 Cap Non-pol
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component C8 Cap Non-pol
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component H? Hole
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component H? Hole
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component H? Hole
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component H? Hole

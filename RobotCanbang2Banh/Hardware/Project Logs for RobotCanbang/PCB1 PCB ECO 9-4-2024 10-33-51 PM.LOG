@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=3V3 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Member From Class: ClassName=SelfBalancingRB_SCH Member=C9
+Removed Member From Class: ClassName=SelfBalancingRB_SCH Member=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC8_2

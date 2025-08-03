@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Member To Class: ClassName=Sheet1 Member=Component R10 RESISTOR

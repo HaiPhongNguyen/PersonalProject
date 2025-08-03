@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=IO0 Pin=Q2-3
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component C1 Cap Pol
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component C5 Cap Non-pol
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component C6 Cap Non-pol
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component H? Hole
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component H? Hole
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component H? Hole
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component H? Hole
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component P2 L298_Module
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component Q2 C1815
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component R2 RES_SMD_0805
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component R4 RES_SMD_0805
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component R6 RES_SMD_0805
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component R9 RES_SMD_0805
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component R10 RES_SMD_0805
+Added Member To Class: ClassName=SelfBalancingRB_SCH Member=Component U1 ESP32-WROOM-32
