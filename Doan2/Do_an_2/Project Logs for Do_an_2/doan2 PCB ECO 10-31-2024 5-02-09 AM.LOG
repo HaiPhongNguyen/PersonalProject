@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=BT3 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=BT2 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=BT3 Pin=R6-1
+Removed Pin From Net: NetName=3v3 Pin=R6-2
+Removed Pin From Net: NetName=BT2 Pin=R7-1
+Removed Pin From Net: NetName=3v3 Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=S3-1
+Removed Pin From Net: NetName=BT3 Pin=S3-2
+Removed Pin From Net: NetName=GND Pin=S4-1
+Removed Pin From Net: NetName=BT2 Pin=S4-2
+Removed Member From Class: ClassName=doan2 Member=C12
+Removed Member From Class: ClassName=doan2 Member=C13
+Removed Member From Class: ClassName=doan2 Member=R6
+Removed Member From Class: ClassName=doan2 Member=R7
+Removed Member From Class: ClassName=doan2 Member=S3
+Removed Member From Class: ClassName=doan2 Member=S4
+Added Member To Class: ClassName=doan2 Member=Component C9 Cap Non-pol
+Added Member To Class: ClassName=doan2 Member=Component C11 Cap Non-pol
+Added Member To Class: ClassName=Power_supply Member=Component C17 Cap Pol
+Added Member To Class: ClassName=Power_supply Member=Component C18 Cap Non-pol
+Added Member To Class: ClassName=Power_supply Member=Component C21 22nF
+Added Member To Class: ClassName=Power_supply Member=Component R11 RESISTOR SMD
+Added Member To Class: ClassName=Power_supply Member=Component R16 RESISTOR

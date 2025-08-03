@@ -1,0 +1,18 @@
+Added Component: Designator=Q1(SOP65P640X120-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-5
+Added Pin To Net: NetName=GND Pin=Q1-6
+Added Pin To Net: NetName=GND Pin=Q1-7
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-8
+Added Member To Class: ClassName=Power_supply Member=Component Q1 FS8205A

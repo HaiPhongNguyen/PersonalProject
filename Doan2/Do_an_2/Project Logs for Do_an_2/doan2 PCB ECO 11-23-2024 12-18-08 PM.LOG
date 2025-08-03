@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Vusb Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Member From Class: ClassName=Power_supply Member=C14
+Added Pin To Net: NetName=D- Pin=J1-3
+Added Pin To Net: NetName=D+ Pin=J1-4

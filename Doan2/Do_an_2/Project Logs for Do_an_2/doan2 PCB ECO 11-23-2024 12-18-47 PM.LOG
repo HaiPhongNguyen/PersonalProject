@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Vusb Pin=LED1-1
+Removed Pin From Net: NetName=Vusb Pin=LED2-1
+Added Pin To Net: NetName=+5 Pin=LED1-1
+Added Pin To Net: NetName=+5 Pin=LED2-1

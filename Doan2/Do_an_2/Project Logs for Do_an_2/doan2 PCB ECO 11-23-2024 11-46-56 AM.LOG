@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5 Pin=     -4
+Removed Pin From Net: NetName=+5 Pin=     -8
+Removed Pin From Net: NetName=+5 Pin=C14-1
+Removed Pin From Net: NetName=+5 Pin=J1-1
+Removed Pin From Net: NetName=+5 Pin=LED1-1
+Removed Pin From Net: NetName=+5 Pin=LED2-1
+Change Component Designator: OldDesignator=      NewDesignator=U5
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=J1-1
+Added Pin To Net: NetName=NetC14_1 Pin=LED1-1
+Added Pin To Net: NetName=NetC14_1 Pin=LED2-1
+Added Pin To Net: NetName=NetC14_1 Pin=U5-4
+Added Pin To Net: NetName=NetC14_1 Pin=U5-8
+Added Net: Name=NetC14_1

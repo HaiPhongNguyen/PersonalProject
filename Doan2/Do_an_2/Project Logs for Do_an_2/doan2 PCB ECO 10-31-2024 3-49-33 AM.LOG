@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=MCU_TX Pin=R5-2
+Removed Pin From Net: NetName=MCU_RX Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=3v3 Pin=U4-4
+Removed Pin From Net: NetName=D+ Pin=U4-5
+Removed Pin From Net: NetName=D- Pin=U4-6
+Removed Pin From Net: NetName=+5 Pin=U4-16
+Removed Pin From Net: NetName=GND Pin=Y1-2
+Removed Pin From Net: NetName=GND Pin=Y1-4
+Removed Member From Class: ClassName=doan2 Member=C8
+Removed Member From Class: ClassName=doan2 Member=C14
+Removed Member From Class: ClassName=doan2 Member=R5
+Removed Member From Class: ClassName=doan2 Member=R6
+Removed Member From Class: ClassName=doan2 Member=U4
+Removed Member From Class: ClassName=doan2 Member=Y1

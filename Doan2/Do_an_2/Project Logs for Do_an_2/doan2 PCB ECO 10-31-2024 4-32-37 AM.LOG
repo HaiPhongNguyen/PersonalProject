@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=X1-1
+Added Pin To Net: NetName=OSC32_OUT Pin=C11-1
+Added Pin To Net: NetName=OSC32_OUT Pin=U2-4
+Added Pin To Net: NetName=OSC32_OUT Pin=X1-1
+Added Net: Name=OSC32_OUT
