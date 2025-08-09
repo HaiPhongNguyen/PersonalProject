@@ -1,0 +1,20 @@
+Added Component: Designator=P3(Header 3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(Header 4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=+5 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=+5 Pin=P4-4
+Added Pin To Net: NetName=ECHO Pin=P4-2
+Added Net: Name=ECHO
+Added Pin To Net: NetName=SG Pin=P3-3
+Added Net: Name=SG
+Added Pin To Net: NetName=TG Pin=P4-3
+Added Net: Name=TG
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 4

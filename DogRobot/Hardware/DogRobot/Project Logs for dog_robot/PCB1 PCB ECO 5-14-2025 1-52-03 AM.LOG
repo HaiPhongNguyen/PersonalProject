@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SG3 Pin=U2-9
+Removed Pin From Net: NetName=SG2 Pin=U2-10
+Added Pin To Net: NetName=SG3 Pin=U2-5
+Added Pin To Net: NetName=SG2 Pin=U2-8

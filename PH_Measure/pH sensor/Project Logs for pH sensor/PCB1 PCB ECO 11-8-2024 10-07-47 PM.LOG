@@ -1,0 +1,13 @@
+Add Component: Footprint Not Found RES-SM-0805
+Add Component: Footprint Not Found RES-SMD-0603
+Add Component: Footprint Not Found SW-SMD
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Change Net Name : Old Net Name=BOOT0 New Net Name=GND
+Add Class Member: Failed to add class member : Component R5 RESISTOR SMD
+Add Class Member: Failed to add class member : Component R6 1k
+Add Class Member: Failed to add class member : Component S1 SW-SMD

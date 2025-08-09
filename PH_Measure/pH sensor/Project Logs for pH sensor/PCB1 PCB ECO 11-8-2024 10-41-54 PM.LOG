@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=JP1-1
+Removed Pin From Net: NetName=+5 Pin=JP1-2
+Removed Pin From Net: NetName=RS Pin=JP1-4
+Removed Pin From Net: NetName=RW Pin=JP1-5
+Removed Pin From Net: NetName=EN Pin=JP1-6
+Removed Pin From Net: NetName=D4 Pin=JP2-1
+Removed Pin From Net: NetName=D5 Pin=JP2-2
+Removed Pin From Net: NetName=D6 Pin=JP2-3
+Removed Pin From Net: NetName=D7 Pin=JP2-4
+Removed Pin From Net: NetName=+5 Pin=JP2-5
+Removed Pin From Net: NetName=GND Pin=JP2-6
+Removed Member From Class: ClassName=Sheet3 Member=JP1
+Removed Member From Class: ClassName=Sheet3 Member=JP2
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=+5 Pin=LCD1-2
+Added Pin To Net: NetName=RS Pin=LCD1-4
+Added Pin To Net: NetName=RW Pin=LCD1-5
+Added Pin To Net: NetName=EN Pin=LCD1-6
+Added Pin To Net: NetName=D4 Pin=LCD1-11
+Added Pin To Net: NetName=D5 Pin=LCD1-12
+Added Pin To Net: NetName=D6 Pin=LCD1-13
+Added Pin To Net: NetName=D7 Pin=LCD1-14
+Added Pin To Net: NetName=+5 Pin=LCD1-15
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=NetLCD1_3 Pin=VR2-2
+Added Net: Name=NetLCD1_3

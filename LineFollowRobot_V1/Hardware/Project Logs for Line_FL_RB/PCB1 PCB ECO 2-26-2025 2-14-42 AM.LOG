@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=LD Pin=U3-8
+Added Net: Name=LD
+Added Pin To Net: NetName=LE Pin=U3-1
+Added Net: Name=LE
+Added Pin To Net: NetName=LS Pin=U3-7
+Added Net: Name=LS
+Added Pin To Net: NetName=RD Pin=U1-8
+Added Net: Name=RD
+Added Pin To Net: NetName=RE Pin=U1-1
+Added Net: Name=RE
+Added Pin To Net: NetName=RS Pin=U1-7
+Added Net: Name=RS

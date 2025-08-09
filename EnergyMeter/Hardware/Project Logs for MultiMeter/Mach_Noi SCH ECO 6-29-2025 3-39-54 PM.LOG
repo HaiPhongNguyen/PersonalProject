@@ -1,0 +1,7 @@
+Change Component Designator: Old Designator=DHT11 New Designator=DHT1
+Change Component Designator: Old Designator=JP7 New Designator=JP4
+Change Component Designator: Old Designator=JP9 New Designator=JP5
+Change Component Designator: Old Designator=LCD_I2C New Designator=LCD_I1
+Change Component Designator: Old Designator=Module SIM A7680C New Designator=Module SIM A1
+Change Component Designator: Old Designator=MQ2 New Designator=MQ1
+Change Component Designator: Old Designator=PCF8574 New Designator=PCF1

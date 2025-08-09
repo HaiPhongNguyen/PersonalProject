@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=S1 Pin=U2-5
+Removed Pin From Net: NetName=S2 Pin=U2-6
+Removed Pin From Net: NetName=+5 Pin=U3-2
+Removed Pin From Net: NetName=+5 Pin=U3-3
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Added Component: Designator=U?(MODULE_ESP32_DEVKIT_V1)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Do it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=LM?-2
+Added Pin To Net: NetName=GND Pin=LM?-3
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=+12 Pin=U1-16
+Added Pin To Net: NetName=+12 Pin=U3-16
+Added Pin To Net: NetName=3V3 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-29
+Added Pin To Net: NetName=+5 Pin=U?-30
+Added Pin To Net: NetName=NetU3_2 Pin=U3-2
+Added Pin To Net: NetName=NetU3_2 Pin=U3-3
+Added Net: Name=NetU3_2
+Added Member To Class: ClassName=Sheet1 Member=Component U? ESP32-DEVKIT-V1

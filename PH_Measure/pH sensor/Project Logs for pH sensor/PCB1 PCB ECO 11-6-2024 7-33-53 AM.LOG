@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=tm NewDesignator=U2
+Added Pin To Net: NetName=GND Pin=DS1-1
+Added Pin To Net: NetName=GND Pin=U2-28
+Change Net Name : Old Net Name=GND New Net Name=Data

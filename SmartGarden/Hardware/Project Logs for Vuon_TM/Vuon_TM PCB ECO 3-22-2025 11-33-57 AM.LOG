@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP1
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP2
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Added Component: Designator=H1(LO KHOAN 3MM)
+Added Component: Designator=H2(LO KHOAN 3MM)
+Added Component: Designator=H3(LO KHOAN 3MM)
+Added Component: Designator=H4(LO KHOAN 3MM)
+Change Net Name : Old Net Name=NetJP3_2 New Net Name=NetJP2_2
+Added Member To Class: ClassName=Vuon_TM Member=Component H1 Hole
+Added Member To Class: ClassName=Vuon_TM Member=Component H2 Hole
+Added Member To Class: ClassName=Vuon_TM Member=Component H3 Hole
+Added Member To Class: ClassName=Vuon_TM Member=Component H4 Hole

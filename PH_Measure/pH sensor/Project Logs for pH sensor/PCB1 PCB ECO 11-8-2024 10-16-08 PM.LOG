@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NRST Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Change Component Footprint: Designator=C12 Old Footprint=C1608-0603 New Footprint=SM-0805
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C1608-0603"; UniqueID = "\WZOYCZDL" ("\WZOYCZDL")
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NRST Pin=C12-2

@@ -1,0 +1,27 @@
+Add Component: Footprint Not Found RES-SM-0805
+Add Component: Footprint Not Found RES-SMD-0603
+Add Component: Footprint Not Found SW-SMD
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=BOOT0 Pin=C8-1
+Added Pin To Net: NetName=BOOT0 Pin=C9-1
+Added Pin To Net: NetName=BOOT0 Pin=C10-1
+Added Pin To Net: NetName=BOOT0 Pin=C11-1
+Added Pin To Net: NetName=BOOT0 Pin=C12-2
+Added Pin To Net: NetName=BOOT0 Pin=C13-1
+Added Pin To Net: NetName=BOOT0 Pin=C14-1
+Added Pin To Net: NetName=BOOT0 Pin=C15-1
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Added Pin To Net: NetName=BOOT0 Pin=ST-LINK1-1
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=BOOT0 Pin=U3-8
+Added Pin To Net: NetName=BOOT0 Pin=U3-23
+Added Pin To Net: NetName=BOOT0 Pin=U3-35
+Added Pin To Net: NetName=BOOT0 Pin=U3-47
+Add Class Member: Failed to add class member : Component R5 RESISTOR SMD
+Add Class Member: Failed to add class member : Component R6 1k
+Add Class Member: Failed to add class member : Component S1 SW-SMD

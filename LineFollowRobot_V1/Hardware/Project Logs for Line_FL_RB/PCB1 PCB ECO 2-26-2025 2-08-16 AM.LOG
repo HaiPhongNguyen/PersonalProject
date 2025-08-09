@@ -1,0 +1,113 @@
+Added Component: Designator=JP1(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(CON7)
+Add component (AddParameter): Name = "Value"; Value = "Connector 7"; VariantName = "[No Variations]"
+Added Component: Designator=LM?(lm2596)
+Added Component: Designator=P?(Medium - Header 2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A4988_STEPPER_MOTOR_DRIVER_CARRIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(MODULE_DEVKIT_V1_ESP32-WROOM-32)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DEVKIT%20V1%20ESP32-WROOM-32/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DEVKIT V1 ESP32-WROOM-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DEVKIT%20V1%20ESP32-WROOM-32/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A4988_STEPPER_MOTOR_DRIVER_CARRIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-3
+Added Pin To Net: NetName=+5 Pin=U1-10
+Added Pin To Net: NetName=+5 Pin=U3-2
+Added Pin To Net: NetName=+5 Pin=U3-3
+Added Pin To Net: NetName=+5 Pin=U3-10
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=LM?-1
+Added Pin To Net: NetName=+12 Pin=P?-2
+Added Net: Name=+12
+Added Pin To Net: NetName=3V3 Pin=JP?-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=LM?-4
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=U1-16
+Added Pin To Net: NetName=12V Pin=U3-16
+Added Net: Name=12V
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Net: Name=GND
+Add Net: Net with name "GND" already exists
+Added Pin To Net: NetName=LDIR Pin=U3-8
+Added Net: Name=LDIR
+Added Pin To Net: NetName=LEN Pin=U3-1
+Added Net: Name=LEN
+Added Pin To Net: NetName=LSTEP Pin=U3-7
+Added Net: Name=LSTEP
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=U1-12
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=U1-11
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP1_3 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_3 Pin=U1-13
+Added Net: Name=NetJP1_3
+Added Pin To Net: NetName=NetJP1_4 Pin=JP1-4
+Added Pin To Net: NetName=NetJP1_4 Pin=U1-14
+Added Net: Name=NetJP1_4
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=U3-12
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=U3-11
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetJP2_3 Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_3 Pin=U3-13
+Added Net: Name=NetJP2_3
+Added Pin To Net: NetName=NetJP2_4 Pin=JP2-4
+Added Pin To Net: NetName=NetJP2_4 Pin=U3-14
+Added Net: Name=NetJP2_4
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=NetU1_5 Pin=U1-6
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU3_5 Pin=U3-5
+Added Pin To Net: NetName=NetU3_5 Pin=U3-6
+Added Net: Name=NetU3_5
+Added Pin To Net: NetName=RDIR Pin=U1-8
+Added Net: Name=RDIR
+Add Net: Net with name "RDIR" already exists
+Added Pin To Net: NetName=REN Pin=U2-9
+Added Net: Name=REN
+Add Net: Net with name "REN" already exists
+Added Pin To Net: NetName=RSTEP Pin=U1-7
+Added Net: Name=RSTEP
+Add Net: Net with name "RSTEP" already exists
+Added Pin To Net: NetName=S1 Pin=JP?-3
+Added Pin To Net: NetName=S1 Pin=U2-5
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=JP?-4
+Added Pin To Net: NetName=S2 Pin=U2-6
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=JP?-5
+Added Net: Name=S3
+Added Pin To Net: NetName=S4 Pin=JP?-6
+Added Net: Name=S4
+Added Pin To Net: NetName=S5 Pin=JP?-7
+Added Net: Name=S5
+Added Class: Name=Sheet1

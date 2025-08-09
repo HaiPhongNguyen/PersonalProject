@@ -1,0 +1,21 @@
+Added Component: Designator=H1(LO KHOAN 3MM)
+Added Component: Designator=H2(LO KHOAN 3MM)
+Added Component: Designator=H3(LO KHOAN 3MM)
+Added Component: Designator=H4(LO KHOAN 3MM)
+Added Pin To Net: NetName=B2 Pin=P1-8
+Added Pin To Net: NetName=B2 Pin=U3-25
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=P1-7
+Added Pin To Net: NetName=B3 Pin=U3-26
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=P1-6
+Added Pin To Net: NetName=B4 Pin=U3-27
+Added Net: Name=B4
+Added Pin To Net: NetName=B5 Pin=P1-5
+Added Pin To Net: NetName=B5 Pin=U3-28
+Added Net: Name=B5
+Added Member To Class: ClassName=Sheet3 Member=Component H1 Hole
+Added Member To Class: ClassName=Sheet3 Member=Component H2 Hole
+Added Member To Class: ClassName=Sheet3 Member=Component H3 Hole
+Added Member To Class: ClassName=Sheet3 Member=Component H4 Hole
+Added Member To Class: ClassName=Sheet3 Member=Component LCD1 LCD16x2A

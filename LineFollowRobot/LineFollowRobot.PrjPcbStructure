@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=ECU supply.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ECU supply.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ECU supply.SchDoc|FileName=Sensor.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ECU supply.SchDoc|FileName=Stepper.SchDoc|SheetNumber=2

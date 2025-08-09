@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=+5 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=VR1-1
+Removed Pin From Net: NetName=+5 Pin=VR1-3
+Removed Member From Class: ClassName=Sheet2 Member=R1
+Removed Member From Class: ClassName=Sheet2 Member=VR1
+Change Component Comment : Designator=J1 Old Comment=282843-2 New Comment=Terminal_2
+Added Component: Designator=DHT11(CON3)
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Component: Designator=JP7(CON6)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Component: Designator=JP9(CON6)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Component: Designator=LCD_I2C(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=Module SIM A7680C(Header 6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=MQ2(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=PCF8574(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=DHT11-1
+Added Pin To Net: NetName=GND Pin=DHT11-2
+Added Pin To Net: NetName=+5 Pin=JP3-5
+Added Pin To Net: NetName=GND Pin=JP7-1
+Added Pin To Net: NetName=+5 Pin=JP7-2
+Added Pin To Net: NetName=GND Pin=JP9-1
+Added Pin To Net: NetName=+5 Pin=JP9-2
+Added Pin To Net: NetName=+5 Pin=LCD_I2C-1
+Added Pin To Net: NetName=GND Pin=LCD_I2C-2
+Added Pin To Net: NetName=+5 Pin=Module SIM A7680C-2
+Added Pin To Net: NetName=GND Pin=Module SIM A7680C-6
+Added Pin To Net: NetName=+5 Pin=MQ2-1
+Added Pin To Net: NetName=GND Pin=MQ2-2
+Added Pin To Net: NetName=+5 Pin=PCF8574-1
+Added Pin To Net: NetName=GND Pin=PCF8574-2
+Change Net Name : Old Net Name=D4 New Net Name=D26
+Change Net Name : Old Net Name=D5 New Net Name=D27
+Change Net Name : Old Net Name=D6 New Net Name=D14
+Change Net Name : Old Net Name=D7 New Net Name=D13
+Change Net Name : Old Net Name=EN New Net Name=D25
+Change Net Name : Old Net Name=RS New Net Name=D32
+Change Net Name : Old Net Name=RW New Net Name=D33
+Added Pin To Net: NetName=NetDHT11_3 Pin=DHT11-3
+Added Pin To Net: NetName=NetDHT11_3 Pin=JP9-3
+Added Net: Name=NetDHT11_3
+Added Pin To Net: NetName=NetJP7_4 Pin=JP7-4
+Added Pin To Net: NetName=NetJP7_4 Pin=LCD_I2C-3
+Added Pin To Net: NetName=NetJP7_4 Pin=PCF8574-3
+Added Net: Name=NetJP7_4
+Added Pin To Net: NetName=NetJP7_5 Pin=JP7-5
+Added Pin To Net: NetName=NetJP7_5 Pin=LCD_I2C-4
+Added Pin To Net: NetName=NetJP7_5 Pin=MQ2-4
+Added Pin To Net: NetName=NetJP7_5 Pin=PCF8574-4
+Added Net: Name=NetJP7_5
+Added Pin To Net: NetName=NetJP9_5 Pin=JP9-5
+Added Pin To Net: NetName=NetJP9_5 Pin=Module SIM A7680C-5
+Added Net: Name=NetJP9_5
+Added Pin To Net: NetName=NetJP9_6 Pin=JP9-6
+Added Pin To Net: NetName=NetJP9_6 Pin=Module SIM A7680C-4
+Added Net: Name=NetJP9_6
+Added Class: Name=Mach_Noi

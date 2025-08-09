@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=A8 Pin=P1-4
+Added Pin To Net: NetName=A8 Pin=U3-29
+Added Net: Name=A8
+Added Pin To Net: NetName=A9 Pin=P1-3
+Added Pin To Net: NetName=A9 Pin=U3-30
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=P1-2
+Added Pin To Net: NetName=A10 Pin=U3-31
+Added Net: Name=A10
+Added Pin To Net: NetName=A11 Pin=P1-1
+Added Pin To Net: NetName=A11 Pin=U3-32
+Added Net: Name=A11
