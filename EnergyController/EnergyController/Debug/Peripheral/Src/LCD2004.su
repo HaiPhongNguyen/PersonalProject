@@ -1,0 +1,16 @@
+../Peripheral/Src/LCD2004.c:18:6:lcd_init	16	static
+../Peripheral/Src/LCD2004.c:43:6:lcd_clear	8	static
+../Peripheral/Src/LCD2004.c:49:6:lcd_home	8	static
+../Peripheral/Src/LCD2004.c:55:6:lcd_setCursor	24	static
+../Peripheral/Src/LCD2004.c:62:6:lcd_print	80	static
+../Peripheral/Src/LCD2004.c:74:6:lcd_display	8	static
+../Peripheral/Src/LCD2004.c:80:6:lcd_noDisplay	8	static
+../Peripheral/Src/LCD2004.c:86:6:lcd_backlight	16	static
+../Peripheral/Src/LCD2004.c:92:6:lcd_noBacklight	16	static
+../Peripheral/Src/LCD2004.c:99:13:lcd_send	24	static
+../Peripheral/Src/LCD2004.c:107:13:lcd_write4bits	24	static
+../Peripheral/Src/LCD2004.c:113:13:lcd_pulseEnable	32	static
+../Peripheral/Src/LCD2004.c:127:13:lcd_command	16	static
+../Peripheral/Src/LCD2004.c:132:13:lcd_printString	16	static
+../Peripheral/Src/LCD2004.c:140:6:lcd_writeCustom	16	static
+../Peripheral/Src/LCD2004.c:145:6:lcd_createChar	24	static

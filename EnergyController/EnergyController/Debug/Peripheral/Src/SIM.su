@@ -1,0 +1,3 @@
+../Peripheral/Src/SIM.c:23:12:sim_send_cmd_wait	168	static
+../Peripheral/Src/SIM.c:52:6:SIM800_Init	16	static
+../Peripheral/Src/SIM.c:60:6:SIM800_SendSMS	608	static

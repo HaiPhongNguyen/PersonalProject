@@ -1,0 +1,9 @@
+../Peripheral/Src/INA219.c:10:26:INA219_WriteRegister	1
+../Peripheral/Src/INA219.c:23:26:INA219_ReadRegister	3
+../Peripheral/Src/INA219.c:48:19:INA219_Reset	1
+../Peripheral/Src/INA219.c:55:19:INA219_Init	1
+../Peripheral/Src/INA219.c:72:19:INA219_SetCalibration	4
+../Peripheral/Src/INA219.c:105:7:INA219_ReadBusVoltage	2
+../Peripheral/Src/INA219.c:118:7:INA219_ReadShuntVoltage	2
+../Peripheral/Src/INA219.c:139:7:INA219_ReadCurrent	2
+../Peripheral/Src/INA219.c:159:7:INA219_ReadPower	2

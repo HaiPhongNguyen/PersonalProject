@@ -1,0 +1,2 @@
+../Peripheral/Src/ADC.c:20:6:ADC_Init	16	static
+../Peripheral/Src/ADC.c:25:19:ADC_Read	24	static

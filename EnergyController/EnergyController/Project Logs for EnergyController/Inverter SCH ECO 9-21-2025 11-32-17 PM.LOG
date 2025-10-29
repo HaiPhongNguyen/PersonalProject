@@ -1,0 +1,13 @@
+Change Component Designator: Old Designator=AC-feedback New Designator=AC-feedback1
+Change Component Designator: Old Designator=AC-OUT New Designator=AC-OUT1
+Change Component Designator: Old Designator=C4 New Designator=C5
+Change Component Designator: Old Designator=C5 New Designator=C6
+Change Component Designator: Old Designator=C? New Designator=C4
+Change Component Designator: Old Designator=C? New Designator=C7
+Change Component Designator: Old Designator=Input_Transformer New Designator=Input_Transformer1
+Change Component Designator: Old Designator=L? New Designator=L1
+Change Component Designator: Old Designator=Q2 New Designator=Q3
+Change Component Designator: Old Designator=Q3 New Designator=Q2
+Change Component Designator: Old Designator=Q4 New Designator=Q5
+Change Component Designator: Old Designator=Q5 New Designator=Q4
+Change Component Designator: Old Designator=R? New Designator=R13

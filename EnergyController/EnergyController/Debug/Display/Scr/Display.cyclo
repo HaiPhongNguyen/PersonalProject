@@ -1,0 +1,12 @@
+../Display/Scr/Display.c:70:6:Display_Init	2
+../Display/Scr/Display.c:96:13:lcd_print_padded_20	2
+../Display/Scr/Display.c:104:6:Display_UpdatePage1	6
+../Display/Scr/Display.c:165:6:Display_Page2	2
+../Display/Scr/Display.c:184:6:Display_Page3	2
+../Display/Scr/Display.c:199:6:Display_Page4	1
+../Display/Scr/Display.c:215:10:Display_GetInputMinutes	1
+../Display/Scr/Display.c:220:6:Display_ClearInputBuffer	1
+../Display/Scr/Display.c:229:6:Display_Page4_HandleKey	4
+../Display/Scr/Display.c:250:6:Display_Page5	6
+../Display/Scr/Display.c:297:6:Display_Page5_Select	4
+../Display/Scr/Display.c:332:6:Display_Page5_1	7

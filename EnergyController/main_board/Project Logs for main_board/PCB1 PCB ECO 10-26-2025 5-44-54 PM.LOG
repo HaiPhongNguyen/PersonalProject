@@ -1,0 +1,227 @@
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=VCC Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=VCC Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=VCC Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=VCC Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=J3-PAD
+Removed Pin From Net: NetName=GND Pin=J4-PAD
+Removed Pin From Net: NetName=GND Pin=J5-PAD
+Removed Pin From Net: NetName=GND Pin=J6-PAD
+Removed Pin From Net: NetName=GND Pin=JP3-1
+Removed Pin From Net: NetName=GND Pin=JP4-1
+Removed Pin From Net: NetName=GND Pin=JP5-1
+Removed Pin From Net: NetName=GND Pin=JP6-1
+Removed Pin From Net: NetName=+12 Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=+12 Pin=R3-2
+Removed Pin From Net: NetName=SIV Pin=R4-2
+Removed Pin From Net: NetName=+12 Pin=R7-2
+Removed Pin From Net: NetName=+12 Pin=R8-2
+Removed Pin From Net: NetName=SP1 Pin=R9-2
+Removed Pin From Net: NetName=SP2 Pin=R10-2
+Removed Pin From Net: NetName=+12 Pin=R13-2
+Removed Pin From Net: NetName=+12 Pin=R14-2
+Removed Pin From Net: NetName=SP3 Pin=R15-2
+Removed Pin From Net: NetName=SP4 Pin=R16-2
+Removed Pin From Net: NetName=+12 Pin=U2-2
+Removed Pin From Net: NetName=+12 Pin=U2-2
+Removed Pin From Net: NetName=IV Pin=U2-3
+Removed Pin From Net: NetName=+12 Pin=U3-2
+Removed Pin From Net: NetName=+12 Pin=U3-2
+Removed Pin From Net: NetName=+12 Pin=U4-2
+Removed Pin From Net: NetName=+12 Pin=U4-2
+Removed Pin From Net: NetName=+12 Pin=U6-2
+Removed Pin From Net: NetName=+12 Pin=U6-2
+Removed Pin From Net: NetName=+12 Pin=U7-2
+Removed Pin From Net: NetName=+12 Pin=U7-2
+Removed Pin From Net: NetName=GND Pin=U8-3
+Removed Pin From Net: NetName=VCC Pin=U8-4
+Removed Pin From Net: NetName=SCL2 Pin=U8-5
+Removed Pin From Net: NetName=SDA2 Pin=U8-6
+Removed Pin From Net: NetName=GND Pin=U8-7
+Removed Pin From Net: NetName=GND Pin=U8-8
+Removed Pin From Net: NetName=GND Pin=U9-3
+Removed Pin From Net: NetName=VCC Pin=U9-4
+Removed Pin From Net: NetName=SCL2 Pin=U9-5
+Removed Pin From Net: NetName=SDA2 Pin=U9-6
+Removed Pin From Net: NetName=VCC Pin=U9-7
+Removed Pin From Net: NetName=GND Pin=U9-8
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=VCC Pin=U10-4
+Removed Pin From Net: NetName=SCL2 Pin=U10-5
+Removed Pin From Net: NetName=SDA2 Pin=U10-6
+Removed Pin From Net: NetName=GND Pin=U10-7
+Removed Pin From Net: NetName=SDA2 Pin=U10-8
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=VCC Pin=U11-4
+Removed Pin From Net: NetName=SCL2 Pin=U11-5
+Removed Pin From Net: NetName=SDA2 Pin=U11-6
+Removed Pin From Net: NetName=VCC Pin=U11-7
+Removed Pin From Net: NetName=VCC Pin=U11-8
+Removed Member From Class: ClassName=Mainboard Member=Q1
+Removed Member From Class: ClassName=Mainboard Member=Q2
+Removed Member From Class: ClassName=Mainboard Member=Q3
+Removed Member From Class: ClassName=Mainboard Member=Q4
+Removed Member From Class: ClassName=Mainboard Member=Q5
+Removed Member From Class: ClassName=Mainboard Member=R9
+Removed Member From Class: ClassName=Mainboard Member=R10
+Removed Member From Class: ClassName=Mainboard Member=R11
+Removed Member From Class: ClassName=Mainboard Member=R12
+Removed Member From Class: ClassName=Mainboard Member=R13
+Removed Member From Class: ClassName=Mainboard Member=R14
+Removed Member From Class: ClassName=Mainboard Member=R15
+Removed Member From Class: ClassName=Mainboard Member=R16
+Removed Member From Class: ClassName=Mainboard Member=R17
+Removed Member From Class: ClassName=Mainboard Member=R18
+Removed Member From Class: ClassName=Mainboard Member=U3
+Removed Member From Class: ClassName=Mainboard Member=U4
+Removed Member From Class: ClassName=Mainboard Member=U5
+Removed Member From Class: ClassName=Mainboard Member=U6
+Removed Member From Class: ClassName=Mainboard Member=U7
+Change Component Designator: OldDesignator=C38 NewDesignator=C10
+Change Component Designator: OldDesignator=C39 NewDesignator=C11
+Change Component Designator: OldDesignator=C40 NewDesignator=C12
+Change Component Designator: OldDesignator=C41 NewDesignator=C13
+Change Component Designator: OldDesignator=C42 NewDesignator=C14
+Change Component Designator: OldDesignator=C43 NewDesignator=C15
+Change Component Designator: OldDesignator=C44 NewDesignator=C16
+Change Component Designator: OldDesignator=C45 NewDesignator=C17
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP6
+Change Component Designator: OldDesignator=P3 NewDesignator=P8
+Change Component Designator: OldDesignator=P4 NewDesignator=P12
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q1
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R11 NewDesignator=R5
+Change Component Designator: OldDesignator=R12 NewDesignator=R6
+Change Component Designator: OldDesignator=R17 NewDesignator=R7
+Change Component Designator: OldDesignator=R18 NewDesignator=R8
+Change Component Designator: OldDesignator=R27 NewDesignator=R9
+Change Component Designator: OldDesignator=R28 NewDesignator=R10
+Change Component Designator: OldDesignator=R29 NewDesignator=R11
+Change Component Designator: OldDesignator=R30 NewDesignator=R12
+Change Component Designator: OldDesignator=U5 NewDesignator=U2
+Change Component Designator: OldDesignator=U12 NewDesignator=U3
+Change Component Designator: OldDesignator=U13 NewDesignator=U4
+Added Component: Designator=JP1(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=P3(Medium - Header 2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(Header 6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(Medium - Header 2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(Header 2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(Medium - Header 2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P9(Medium - Header 2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P10(Header 3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P11(Medium - Header 2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=SCL2 Pin=JP1-3
+Added Pin To Net: NetName=SDA2 Pin=JP1-4
+Added Pin To Net: NetName=VCC Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=SCL2 Pin=JP2-3
+Added Pin To Net: NetName=SDA2 Pin=JP2-4
+Added Pin To Net: NetName=VCC Pin=JP3-1
+Added Pin To Net: NetName=GND Pin=JP3-2
+Added Pin To Net: NetName=SCL2 Pin=JP3-3
+Added Pin To Net: NetName=SDA2 Pin=JP3-4
+Added Pin To Net: NetName=VCC Pin=JP4-1
+Added Pin To Net: NetName=GND Pin=JP4-2
+Added Pin To Net: NetName=SCL2 Pin=JP4-3
+Added Pin To Net: NetName=SDA2 Pin=JP4-4
+Added Pin To Net: NetName=+12 Pin=P3-2
+Added Pin To Net: NetName=SP1 Pin=P4-2
+Added Pin To Net: NetName=SP2 Pin=P4-3
+Added Pin To Net: NetName=SP3 Pin=P4-4
+Added Pin To Net: NetName=SP4 Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Pin To Net: NetName=+12 Pin=P5-2
+Added Pin To Net: NetName=+12 Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=+12 Pin=P7-2
+Added Pin To Net: NetName=+12 Pin=P9-2
+Added Pin To Net: NetName=+12 Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-2
+Added Pin To Net: NetName=SIV Pin=P10-3
+Added Pin To Net: NetName=Vbat Pin=P12-2
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ1_1
+Added Pin To Net: NetName=+5 Pin=P4-1
+Added Net: Name=+5
+Added Pin To Net: NetName=IV+ Pin=P11-1
+Added Net: Name=IV+
+Added Pin To Net: NetName=IV- Pin=P11-2
+Added Net: Name=IV-
+Added Pin To Net: NetName=V1+ Pin=P3-1
+Added Net: Name=V1+
+Added Pin To Net: NetName=V2+ Pin=P5-1
+Added Net: Name=V2+
+Added Pin To Net: NetName=V3+ Pin=P7-1
+Added Net: Name=V3+
+Added Pin To Net: NetName=V4+ Pin=P9-1
+Added Net: Name=V4+
+Added Member To Class: ClassName=Mainboard Member=Component JP3 JP4
+Added Member To Class: ClassName=Mainboard Member=Component JP4
+Added Member To Class: ClassName=Mainboard Member=Component JP5 JP4
+Added Member To Class: ClassName=Mainboard Member=Component JP6 Switch
+Added Member To Class: ClassName=Mainboard Member=Component P5 Header 2 - M
+Added Member To Class: ClassName=Mainboard Member=Component P6 Header 2
+Added Member To Class: ClassName=Mainboard Member=Component P7 Header 2 - M
+Added Member To Class: ClassName=Mainboard Member=Component P8 Header 2
+Added Member To Class: ClassName=Mainboard Member=Component P9 Header 2 - M
+Added Member To Class: ClassName=Mainboard Member=Component P10 Header 3
+Added Member To Class: ClassName=Mainboard Member=Component P11 Header 2 - M
+Added Member To Class: ClassName=Mainboard Member=Component P12 Battery

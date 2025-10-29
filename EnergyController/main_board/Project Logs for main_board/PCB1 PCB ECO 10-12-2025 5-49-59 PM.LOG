@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=USB_charger Member=R27
+Removed Member From Class: ClassName=USB_charger Member=R28
+Removed Member From Class: ClassName=USB_charger Member=R29
+Removed Member From Class: ClassName=USB_charger Member=R30
+Added Component: Designator=H1(LO KHOAN 3MM)
+Added Component: Designator=H2(LO KHOAN 3MM)
+Added Component: Designator=H3(LO KHOAN 3MM)
+Added Component: Designator=H4(LO KHOAN 3MM)
+Added Member To Class: ClassName=USB_charger Member=Component C30 Cap Pol
+Added Member To Class: ClassName=Mainboard Member=Component D2
+Added Member To Class: ClassName=Mainboard Member=Component F1 FUSE
+Added Member To Class: ClassName=MCU Member=Component H1 Hole
+Added Member To Class: ClassName=MCU Member=Component H2 Hole
+Added Member To Class: ClassName=MCU Member=Component H3 Hole
+Added Member To Class: ClassName=MCU Member=Component H4 Hole
+Added Member To Class: ClassName=USB_charger Member=Component R21 0.001
+Added Member To Class: ClassName=USB_charger Member=Component R22 0.001
+Added Member To Class: ClassName=USB_charger Member=Component R23 RESISTOR
+Added Member To Class: ClassName=USB_charger Member=Component R24 RESISTOR
+Added Member To Class: ClassName=USB_charger Member=Component R25 0.001
+Added Member To Class: ClassName=USB_charger Member=Component R26 0.001

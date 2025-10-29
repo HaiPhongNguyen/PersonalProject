@@ -1,0 +1,3 @@
+../Peripheral/Src/ADS1115.c:27:19:ADS1115_Init	7
+../Peripheral/Src/ADS1115.c:51:19:ADS1115_ReadSingleEnded	6
+../Peripheral/Src/ADS1115.c:104:19:ADS1115_ReadContinuous	2

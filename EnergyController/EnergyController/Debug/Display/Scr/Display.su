@@ -1,0 +1,12 @@
+../Display/Scr/Display.c:70:6:Display_Init	16	static
+../Display/Scr/Display.c:96:13:lcd_print_padded_20	24	static
+../Display/Scr/Display.c:104:6:Display_UpdatePage1	96	static
+../Display/Scr/Display.c:165:6:Display_Page2	8	static
+../Display/Scr/Display.c:184:6:Display_Page3	8	static
+../Display/Scr/Display.c:199:6:Display_Page4	8	static
+../Display/Scr/Display.c:215:10:Display_GetInputMinutes	8	static
+../Display/Scr/Display.c:220:6:Display_ClearInputBuffer	8	static
+../Display/Scr/Display.c:229:6:Display_Page4_HandleKey	16	static
+../Display/Scr/Display.c:250:6:Display_Page5	88	static
+../Display/Scr/Display.c:297:6:Display_Page5_Select	64	static
+../Display/Scr/Display.c:332:6:Display_Page5_1	16	static

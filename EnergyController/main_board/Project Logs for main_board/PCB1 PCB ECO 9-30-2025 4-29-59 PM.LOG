@@ -1,0 +1,25 @@
+Change Component Comment : Designator=D2 Old Comment=P1000A New Comment=
+Change Component Comment : Designator=D3 Old Comment=P1000A New Comment=
+Change Component Comment : Designator=D4 Old Comment=P1000A New Comment=
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Change Component Designator: OldDesignator=Matrix keypad NewDesignator=Matrix keypad1
+Change component parameters: Designator = "D2" ("D2"); Footprint = "D8x7,5"; UniqueID = "\PSGLKUMK" ("\PSGLKUMK")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://diotec.com/de/produktliste/SBD.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_description"; Value = "Schottky Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_keywords"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "D8x7,5"; UniqueID = "\PSLLIAGK" ("\PSLLIAGK")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://diotec.com/de/produktliste/SBD.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_description"; Value = "Schottky Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_keywords"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "D8x7,5"; UniqueID = "\HVXKJWSW" ("\HVXKJWSW")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://diotec.com/de/produktliste/SBD.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_description"; Value = "Schottky Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_keywords"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

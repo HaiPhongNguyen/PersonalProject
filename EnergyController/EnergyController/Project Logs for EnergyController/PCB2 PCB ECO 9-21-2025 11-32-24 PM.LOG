@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=+12 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Member From Class: ClassName=Inverter Member=C?
+Change Component Designator: OldDesignator=AC-feedback NewDesignator=AC-feedback1
+Change Component Designator: OldDesignator=AC-OUT NewDesignator=AC-OUT1
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=Input_Transformer NewDesignator=Input_Transformer1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q4
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Added Component: Designator=C7(CAPPRD750W80D1600H2500)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-TA1V102/Panasonic/view-part/6222203/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-TA1V102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-TA1V102/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-TA1V102/Panasonic/view-part/6222203/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-N
+Added Pin To Net: NetName=+12 Pin=C7-P
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ4_1
+Added Member To Class: ClassName=Inverter Member=Component C7 1000uF

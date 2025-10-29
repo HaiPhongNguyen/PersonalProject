@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=+12 Pin=Ex-1
+Removed Pin From Net: NetName=GND Pin=Ex-2
+Removed Member From Class: ClassName=Mainboard Member=Ex
+Change Component Designator: OldDesignator=DS1307 NewDesignator=P8
+Change Component Designator: OldDesignator=GPS NewDesignator=JP7
+Change Component Designator: OldDesignator=Relay NewDesignator=P3
+Added Component: Designator=P4(Medium - Header 2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(Header 3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=+12 Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=SIV Pin=P6-3
+Added Member To Class: ClassName=Mainboard Member=Component P4 Header 2 - M
+Added Member To Class: ClassName=Mainboard Member=Component P6 Header 3

@@ -1,0 +1,7 @@
+../Peripheral/Src/Pzem004T.c:19:6:Pzem_Init	16	static
+../Peripheral/Src/Pzem004T.c:25:19:Pzem_ReadVoltage	56	static
+../Peripheral/Src/Pzem004T.c:43:19:Pzem_ReadCurrent	56	static
+../Peripheral/Src/Pzem004T.c:62:19:Pzem_ReadPower	56	static
+../Peripheral/Src/Pzem004T.c:81:19:Pzem_ReadEnergy	56	static
+../Peripheral/Src/Pzem004T.c:100:19:Pzem_ReadFreq	56	static
+../Peripheral/Src/Pzem004T.c:118:19:Pzem_ReadPowerFactor	56	static

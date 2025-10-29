@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3V3 Pin=R7-1
+Removed Pin From Net: NetName=3V3 Pin=R8-1
+Removed Member From Class: ClassName=Mainboard Member=R11
+Added Pin To Net: NetName=VCC Pin=R7-1
+Added Pin To Net: NetName=VCC Pin=R8-1
+Added Member To Class: ClassName=Mainboard Member=Component R7 RESISTOR
+Added Member To Class: ClassName=Mainboard Member=Component R8 RESISTOR
+Added Member To Class: ClassName=Mainboard Member=Component R9 RESISTOR

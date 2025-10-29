@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Added Component: Designator=H1(LO KHOAN 3MM)
+Added Component: Designator=H2(LO KHOAN 3MM)
+Added Component: Designator=H3(LO KHOAN 3MM)
+Added Component: Designator=H4(LO KHOAN 3MM)
+Added Member To Class: ClassName=Inverter Member=Component H1 Hole
+Added Member To Class: ClassName=Inverter Member=Component H2 Hole
+Added Member To Class: ClassName=Inverter Member=Component H3 Hole
+Added Member To Class: ClassName=Inverter Member=Component H4 Hole

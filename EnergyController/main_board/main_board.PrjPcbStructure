@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=Mainboard.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Mainboard.SchDoc|FileName=MCU.SchDoc|SheetNumber=2

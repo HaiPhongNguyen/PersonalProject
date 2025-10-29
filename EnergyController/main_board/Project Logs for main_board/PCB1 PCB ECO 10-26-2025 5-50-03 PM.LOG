@@ -1,0 +1,28 @@
+Added Pin To Net: NetName=+12 Pin=P11-2
+Added Member To Class: ClassName=MCU Member=Component C10 Cap Non-pol
+Added Member To Class: ClassName=MCU Member=Component C11 Cap Non-pol
+Added Member To Class: ClassName=MCU Member=Component C12 Cap Non-pol
+Added Member To Class: ClassName=MCU Member=Component C13 Cap Non-pol
+Added Member To Class: ClassName=MCU Member=Component C14 Cap Non-pol
+Added Member To Class: ClassName=MCU Member=Component C15 Cap Non-pol
+Added Member To Class: ClassName=MCU Member=Component C16 Cap Non-pol
+Added Member To Class: ClassName=MCU Member=Component C17 Cap Non-pol
+Added Member To Class: ClassName=Mainboard Member=Component JP1 JP4
+Added Member To Class: ClassName=Mainboard Member=Component JP2 JP4
+Added Member To Class: ClassName=Mainboard Member=Component JP5 JP4
+Added Member To Class: ClassName=Mainboard Member=Component JP6 Switch
+Added Member To Class: ClassName=Mainboard Member=Component P3 Header 2 - M
+Added Member To Class: ClassName=Mainboard Member=Component P4 Header 6
+Added Member To Class: ClassName=Mainboard Member=Component P12 Battery
+Added Member To Class: ClassName=MCU Member=Component Q1 C1815
+Added Member To Class: ClassName=Mainboard Member=Component R3 RESISTOR
+Added Member To Class: ClassName=Mainboard Member=Component R4 RESISTOR
+Added Member To Class: ClassName=Mainboard Member=Component R5 RESISTOR
+Added Member To Class: ClassName=Mainboard Member=Component R6 RESISTOR
+Added Member To Class: ClassName=Mainboard Member=Component R7 RESISTOR
+Added Member To Class: ClassName=Mainboard Member=Component R8 RESISTOR
+Added Member To Class: ClassName=MCU Member=Component R9 RESISTOR
+Added Member To Class: ClassName=MCU Member=Component R10 RESISTOR
+Added Member To Class: ClassName=Mainboard Member=Component U2 ADS1115IDGSR
+Added Member To Class: ClassName=MCU Member=Component U3 AMS1117-3.3
+Added Member To Class: ClassName=MCU Member=Component U4 STM32F103C8T6

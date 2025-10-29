@@ -1,0 +1,63 @@
+Removed Member From Class: ClassName=MCU Member=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=R23 NewDesignator=R27
+Change Component Designator: OldDesignator=R24 NewDesignator=R28
+Change Component Designator: OldDesignator=R25 NewDesignator=R29
+Change Component Designator: OldDesignator=R26 NewDesignator=R30
+Added Component: Designator=R21(RES_ERJU1T0R00U)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ERJ-U1T0R00U/Panasonic/view-part/961195/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-U1T0R00U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6432-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ERJ-U1T0R00U/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJ-U1T0R00U/Panasonic/view-part/961195/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_ERJU1T0R00U)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ERJ-U1T0R00U/Panasonic/view-part/961195/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-U1T0R00U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6432-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ERJ-U1T0R00U/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJ-U1T0R00U/Panasonic/view-part/961195/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_ERJU1T0R00U)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ERJ-U1T0R00U/Panasonic/view-part/961195/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-U1T0R00U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6432-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ERJ-U1T0R00U/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJ-U1T0R00U/Panasonic/view-part/961195/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_ERJU1T0R00U)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ERJ-U1T0R00U/Panasonic/view-part/961195/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-U1T0R00U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6432-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ERJ-U1T0R00U/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJ-U1T0R00U/Panasonic/view-part/961195/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VP1 Pin=R21-1
+Added Pin To Net: NetName=Vout_P1 Pin=R21-2
+Added Pin To Net: NetName=VP2 Pin=R22-1
+Added Pin To Net: NetName=Vout_P2 Pin=R22-2
+Added Pin To Net: NetName=VP4 Pin=R25-1
+Added Pin To Net: NetName=Vout_P4 Pin=R25-2
+Added Pin To Net: NetName=VP3 Pin=R26-1
+Added Pin To Net: NetName=Vout_P3 Pin=R26-2
+Added Member To Class: ClassName=USB_charger Member=Component R21 0.001
+Added Member To Class: ClassName=USB_charger Member=Component R22 0.001
+Added Member To Class: ClassName=USB_charger Member=Component R23 RESISTOR
+Added Member To Class: ClassName=USB_charger Member=Component R24 RESISTOR
+Added Member To Class: ClassName=USB_charger Member=Component R25 0.001
+Added Member To Class: ClassName=USB_charger Member=Component R26 0.001
+Added Member To Class: ClassName=MCU Member=Component R27 RESISTOR
+Added Member To Class: ClassName=MCU Member=Component R29 RESISTOR

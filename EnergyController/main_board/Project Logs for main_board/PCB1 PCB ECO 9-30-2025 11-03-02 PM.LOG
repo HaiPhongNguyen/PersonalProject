@@ -1,0 +1,8 @@
+Added Component: Designator=JP9(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL2 Pin=JP9-1
+Added Pin To Net: NetName=SDA2 Pin=JP9-2
+Added Pin To Net: NetName=VCC Pin=JP9-3
+Added Pin To Net: NetName=GND Pin=JP9-4
+Added Member To Class: ClassName=MCU Member=Component JP9 Backup
+Added Member To Class: ClassName=MCU Member=Component U13 STM32F103C8T6

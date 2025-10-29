@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=R2 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Change Component Footprint: Designator=R4 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Change Component Footprint: Designator=R5 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Change Component Footprint: Designator=R6 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Change Component Footprint: Designator=R7 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Change Component Footprint: Designator=R8 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Change Component Footprint: Designator=R9 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Change Component Footprint: Designator=R10 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Change Component Footprint: Designator=R11 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Change Component Footprint: Designator=R12 Old Footprint=R-0805 New Footprint=Res 10mm (1/2W)
+Added Member To Class: ClassName=Inverter Member=Component C4 Cap Non-pol
+Added Member To Class: ClassName=Inverter Member=Component C5 Cap Pol
+Added Member To Class: ClassName=Inverter Member=Component C6 Cap Non-pol
+Added Member To Class: ClassName=Inverter Member=Component Q2 IRF3205
+Added Member To Class: ClassName=Inverter Member=Component Q4 IRF3205

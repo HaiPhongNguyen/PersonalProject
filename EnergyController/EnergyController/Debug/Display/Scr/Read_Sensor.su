@@ -1,0 +1,5 @@
+../Display/Scr/Read_Sensor.c:67:6:Sensor_Init	16	static
+../Display/Scr/Read_Sensor.c:78:6:Sensor_Calibrate	32	static
+../Display/Scr/Read_Sensor.c:104:6:Sensor_ReadAll	32	static
+../Display/Scr/Read_Sensor.c:173:6:SourceOutput_Init	16	static
+../Display/Scr/Read_Sensor.c:208:6:SourceOutput_ReadAll	24	static
