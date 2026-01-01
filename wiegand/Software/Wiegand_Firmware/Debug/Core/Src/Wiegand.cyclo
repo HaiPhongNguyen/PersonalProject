@@ -1,0 +1,11 @@
+../Core/Src/Wiegand.c:7:13:DWT_Delay_Init	2
+../Core/Src/Wiegand.c:21:6:delay_us	3
+../Core/Src/Wiegand.c:40:16:parity_even_12	2
+../Core/Src/Wiegand.c:52:16:parity_even_16	2
+../Core/Src/Wiegand.c:64:6:Wiegand_Init	1
+../Core/Src/Wiegand.c:76:6:Wiegand_SendBit	2
+../Core/Src/Wiegand.c:104:6:Wiegand_Send26_Raw	2
+../Core/Src/Wiegand.c:133:6:Wiegand_Send26	1
+../Core/Src/Wiegand.c:144:6:Wiegand_Send26_FromUID	1
+../Core/Src/Wiegand.c:162:6:Wiegand_Send34_Raw	2
+../Core/Src/Wiegand.c:188:6:Wiegand_Send34_FromUID	1

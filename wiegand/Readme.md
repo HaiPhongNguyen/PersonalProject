@@ -1,0 +1,2 @@
+- This project reads RFID card through module MFRC522 and converts to wiegand protocols
+- This project was tested through logic analyser where channel 5 of logic analyer connect to D0 pin, and channel 7 connect to D1 pin.
